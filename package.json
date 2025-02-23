@@ -1,0 +1,22 @@
+{
+  "name": "codernode",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-handlebars": "^8.0.1",
+    "express-validator": "^7.2.1",
+    "socket.io": "^4.8.1"
+  },
+  "scripts": {
+    "start": "bun run src/app.js",
+    "dev": "nodemon --exec bun run src/app.js"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

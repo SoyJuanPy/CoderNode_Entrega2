@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Mouse Gaming X1",
+    "description": "Un mouse ergonómico con 7 botones programables y retroiluminación RGB.",
+    "code": "MOUSE-X1",
+    "price": 49,
+    "stock": 125,
+    "category": "Accesorios",
+    "thumbnails": [
+      "mouse-x1.jpg"
+    ],
+    "id": 1,
+    "status": true
+  },
+  {
+    "title": "Teclado Mecánico Pro",
+    "description": "Teclado mecánico con switches Cherry MX y retroiluminación RGB personalizable.",
+    "code": "TECLADO-PRO",
+    "price": 89,
+    "stock": 78,
+    "category": "Accesorios",
+    "thumbnails": [
+      "teclado-pro.jpg"
+    ],
+    "id": 2,
+    "status": true
+  }
+]
